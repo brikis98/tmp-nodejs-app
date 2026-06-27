@@ -1,0 +1,7 @@
+# Pins tool versions for local development and CI. Install mise: https://mise.jdx.dev
+# Run `mise install` in the repo root to activate these versions locally.
+[settings]
+lockfile = true
+
+[tools]
+node = "25.9.0"
